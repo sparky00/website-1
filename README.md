@@ -1,3 +1,3 @@
 # Website
 
-My website built with [Next.js](https://nextjs.org/).
+My website is built on [Next.js](https://nextjs.org/).
